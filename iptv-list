@@ -353,3 +353,9 @@ http://192.168.123.1:4022/rtp/239.3.1.119:3006
 http://192.168.123.1:4022/rtp/239.3.1.131:3001
 #EXTINF:-1,山东卫视4K超高清[411]
 http://192.168.123.1:4022/rtp/239.3.1.144:3005
+#EXTINF:-1,香港凤凰卫视资讯台[501]
+http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+#EXTINF:-1,凤凰卫视中文台[502]
+ http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+#EXTINF:-1,凤凰卫视香港台[503]
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8

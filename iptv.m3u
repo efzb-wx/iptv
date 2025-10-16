@@ -333,7 +333,7 @@ http://192.168.123.1:4022/rtp/239.3.1.54:4120
 http://192.168.123.1:4022/rtp/239.3.1.56:4120
 #EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/中国交通.png",中国交通[79]
 http://192.168.123.1:4022/rtp/239.3.1.188:8001
-#EXTINF:-1 group-title="其他频道" tvg-logo="",房山电视台[301]
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/房山电视台.png",房山电视台[301]
 http://192.168.123.1:4022/rtp/239.3.1.96:8001
 #EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/山东教育卫视.png",山东教育[139]
 http://192.168.123.1:4022/rtp/239.3.1.52:4120

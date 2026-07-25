@@ -42,6 +42,8 @@ rtp://239.3.1.184:8001
 #EXTINF:-1 group-title="CCTV中央电视台" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/CCTV17.png",CCTV17-高清[17]
 rtp://239.3.1.151:8144
 #EXTINF:-1 group-title="CCTV中央电视台" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/CCTV4K.png",CCTV4K超高清[85]
+rtp://239.3.1.244:2000
+#EXTINF:-1 group-title="CCTV中央电视台" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/CCTV4K.png",CCTV4K超高清HDR[86]
 rtp://239.3.1.245:2000
 
 # BRTV北京广播电视台
@@ -85,8 +87,6 @@ rtp://239.3.1.189:8000
 rtp://239.3.1.22:8001
 #EXTINF:-1 group-title="BRTV北京广播电视台" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/北京卫视.png",BRTV北京卫视超高清HDR[421]
 rtp://239.3.1.118:8001
-#EXTINF:-1 group-title="BRTV北京广播电视台" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/北京体育休闲.png",BRTV体育休闲[126]
-rtp://239.3.1.230:8000
 
 # 地方卫视
 #EXTINF:-1 group-title="地方卫视" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/湖南卫视.png",湖南卫视高清[41]
@@ -166,9 +166,9 @@ rtp://239.3.1.249:8001
 #EXTINF:-1 group-title="4K超高清频道" tvg-logo="",爱上4K[401]
 rtp://239.3.1.236:2000
 #EXTINF:-1 group-title="4K超高清频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/广东4K.png",广东卫视4K超高清[406]
-rtp://239.3.1.27:2000
+rtp://239.3.1.203:2000
 #EXTINF:-1 group-title="4K超高清频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/深圳卫视.png",深圳卫视4K超高清[408]
-rtp://239.3.1.28:2000
+rtp://239.3.1.202:2000
 #EXTINF:-1 group-title="4K超高清频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/湖南卫视.png",湖南卫视4K超高清[405]
 rtp://239.3.1.112:3002
 #EXTINF:-1 group-title="4K超高清频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/江苏卫视.png",江苏卫视4K超高清[407]
@@ -181,12 +181,6 @@ rtp://239.3.1.119:3006
 rtp://239.3.1.131:3001
 #EXTINF:-1 group-title="4K超高清频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/山东卫视.png",山东卫视4K超高清[411]
 rtp://239.3.1.144:3005
-#EXTINF:-1 group-title="4K超高清频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/CCTV16.png",CCTV-16 4K[498]
-rtp://239.3.1.183:8001
-#EXTINF:-1 group-title="4K超高清频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/北京体育休闲.png",BRTV体育休闲4K HDR[403]
-rtp://239.3.1.120:8000
-#EXTINF:-1 group-title="4K超高清频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/北京体育休闲.png",BRTV体育休闲4K SDR[404]
-rtp://239.3.1.121:8000
 
 # 专题/特色频道
 #EXTINF:-1 group-title="专题/特色频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/金鹰纪实.png",金鹰纪实高清[77]
@@ -197,6 +191,8 @@ rtp://239.3.1.102:8001
 rtp://239.3.1.164:8001
 #EXTINF:-1 group-title="专题/特色频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/茶.png",茶[321]
 rtp://239.3.1.165:8001
+#EXTINF:-1 group-title="专题/特色频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/财富天下.png",财富天下[165]
+rtp://239.3.1.53:9136
 #EXTINF:-1 group-title="专题/特色频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/电视指南.png",收视指南[201]
 rtp://239.3.1.193:8012
 #EXTINF:-1 group-title="专题/特色频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/IPTV热播剧场.png",热播剧场[202]
@@ -269,28 +265,6 @@ rtp://239.3.1.95:8001
 rtp://239.3.1.250:8001
 #EXTINF:-1 group-title="专题/特色频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/淘娱乐.png",淘娱乐[39]
 rtp://239.3.1.100:8001
-#EXTINF:-1 group-title="专题/特色频道" tvg-logo="",纪实频道HD[75]
-rtp://239.3.1.212:8060
-#EXTINF:-1 group-title="专题/特色频道" tvg-logo="",体育赛事高清[380]
-rtp://239.3.1.157:8176
-#EXTINF:-1 group-title="专题/特色频道" tvg-logo="",IPTV5＋高清[379]
-rtp://239.3.1.237:4120
-#EXTINF:-1 group-title="专题/特色频道" tvg-logo="",淘精彩[31]
-rtp://239.3.1.178:8001
-#EXTINF:-1 group-title="专题/特色频道" tvg-logo="",熊猫频道[324]
-rtp://239.3.1.66:8068
-#EXTINF:-1 group-title="专题/特色频道" tvg-logo="",IPTV3＋[206]
-rtp://239.3.1.198:9004
-#EXTINF:-1 group-title="专题/特色频道" tvg-logo="",IPTV5＋[208]
-rtp://239.3.1.200:9008
-#EXTINF:-1 group-title="专题/特色频道" tvg-logo="",IPTV6＋[205]
-rtp://239.3.1.197:9016
-#EXTINF:-1 group-title="专题/特色频道" tvg-logo="",IPTV8＋[209]
-rtp://239.3.1.201:8072
-#EXTINF:-1 group-title="专题/特色频道" tvg-logo="",重温经典[349]
-rtp://239.3.1.25:8001
-#EXTINF:-1 group-title="专题/特色频道" tvg-logo="",证券服务[80]
-rtp://239.3.1.24:8001
 
 # 购物频道
 #EXTINF:-1 group-title="购物频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/央广购物.png",央广购物[20]
@@ -349,16 +323,6 @@ rtp://239.3.1.220:4220
 rtp://239.3.1.139:8001
 #EXTINF:-1 group-title="测试频道" tvg-logo="",VBR测试-2[502]
 rtp://239.3.1.140:8001
-#EXTINF:-1 group-title="测试频道" tvg-logo="",轮播频道5[505]
-rtp://239.3.1.253:8001
-#EXTINF:-1 group-title="测试频道" tvg-logo="",4K测试[520]
-rtp://239.3.1.104:8001
-#EXTINF:-1 group-title="测试频道" tvg-logo="",高清测试[521]
-rtp://239.3.1.103:8001
-#EXTINF:-1 group-title="测试频道" tvg-logo="",总平台测试1[522]
-rtp://239.3.1.247:2000
-#EXTINF:-1 group-title="测试频道" tvg-logo="",总平台测试2[523]
-rtp://239.3.1.248:2000
 
 # 其他频道
 #EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/中国教育1台.png",CETV1高清[76]
@@ -373,5 +337,9 @@ rtp://239.3.1.188:8001
 rtp://239.3.1.96:8001
 #EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/山东教育卫视.png",山东教育[139]
 rtp://239.3.1.52:4120
-#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/中国教育3台.png",CETV3[173]
-rtp://239.3.1.55:4120
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/凤凰卫视资讯台.png",香港凤凰卫视资讯台[501]
+http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/凤凰卫视中文台.png",凤凰卫视中文台[502]
+http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/efzb-wx/TVLogo/refs/heads/main/凤凰卫视香港台.png",凤凰卫视香港台[503]
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
